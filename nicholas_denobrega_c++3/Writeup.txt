@@ -1,0 +1,11 @@
+All Pairs Shortest Path:
+The code for this algorithm is the implementation of the psudeo code of Floyds
+algorithm from the slides. We start with a D table which initally holds the shortest
+path cost of vi to vj. The D table is initalized based off given graph. The P table
+stores which nodes we need to traverse through to go from vi to vj. In this algorithm,
+we loop through every index of D table, and consider intermediate verticies v1, v2,
+....vk. We check if the current shortest path cost from vi to vj will be reduced if 
+we traverse through vk. If so, update the D table and P table with new cost and new path,
+and if vk doesnt result in shorter path cost we move on. Each k iteration only relies
+on the Dk-1 and Pk-1 tables.
+

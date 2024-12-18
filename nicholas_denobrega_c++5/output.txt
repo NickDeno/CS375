@@ -1,0 +1,8 @@
+Shortest Path: c b a e g h 
+Shortest Distance: 31
+Running Time: 23 microseconds
+Number of categories (clusters): 3
+Category 1 (9 photos): p4 p6 p8 p10 p12 p15 p16 p17 p19 
+Category 2 (6 photos): p3 p7 p11 p14 p18 p20 
+Category 3 (5 photos): p1 p2 p5 p9 p13 
+Classifying Photos Runtime: 647 microseconds

@@ -1,0 +1,24 @@
+
+i j D 
+
+
+**************************************************************************************************************************************************
+Note:  i is the index of point P[i]; j is the index of point P[j]; D is the minimum distance between P[i] and P[j].
+**************************************************************************************************************************************************
+
+
+//******** Optional for N points clustering ********//
+
+Group 1 
+
+//list all the points in group 1
+
+
+Group 2 
+
+//list all the points in group 2
+
+
+Group 3
+
+//list all the points in group 3
